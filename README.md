@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Welcome 👋, I'm Colby 🧐</h1>
+<h3 align="center"> Software Developer 💻 | Data Analyst 💿</h3>
 
-<!--
-**colbytimm/colbytimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm working at [Softlanding Solutions Inc](https://www.softlanding.ca/)
+- 🤓 I like to dabble in Swift, particularly SwiftUI in my free time
+- 👻 I love data, coding and the cloud ☁️
+- 👯 I'm looking to collaborate on
+	- SwiftUI projects
+	- .Net Core projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Follow me:
+<p align="left">
+<a href="https://www.linkedin.com/in/colbytimm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="colbytimm" height="50" width="50" /></a>
+<a href="https://codeandsorts.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg" alt="colbytimm" height="50" width="50" /></a>
+</p>
