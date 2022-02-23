@@ -2,11 +2,10 @@
 <h3 align="center"> Software Developer 💻 | Data Analyst 💿</h3>
 
 - 🔭 I'm working at [Softlanding Solutions Inc](https://www.softlanding.ca/)
-- 🤓 I like to dabble in Swift, particularly SwiftUI in my free time
+- 🤓 I like to write blog articles for fun at [Code and Sorts](https://www.codeandsorts.com)
 - 👻 I love data, coding and the cloud ☁️
 - 👯 I'm looking to collaborate on
-	- SwiftUI projects
-	- .Net Core projects
+	- .Net projects
 
 ## Follow me:
 <p align="left">
