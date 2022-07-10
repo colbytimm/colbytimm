@@ -1,4 +1,4 @@
-<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Colby 🧐</h1>
+<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=3%>, I'm Colby 🧐</h1>
 <h3 align="center"> Software Developer 💻 | Data Analyst 💿</h3>
 
 - 🔭 I'm working at [Softlanding Solutions Inc](https://www.softlanding.ca/)
