@@ -6,6 +6,7 @@
 - 👻 I love data, coding and the cloud ☁️
 - 👯 I'm looking to collaborate on
 	- .Net projects
+- My work GitHub is [colby-timm](https://github.com/colby-timm)
 
 ## Follow me:
 <p align="left">
