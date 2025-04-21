@@ -75,17 +75,19 @@ public class ColbyTimm
 
 <br>
 
-<div align="center" style="border: 2px solid #d1d5da; border-radius: 12px; padding: 1.5em; background: linear-gradient(135deg, #f5f5f5, #ffffff); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); max-width: 600px; margin: 2em auto; font-family: sans-serif;">
-  <div style="margin-bottom: 1em;">
-    <img src="./resources/empathy_trans.png" alt="Empathy and Trans Rights" height="60" style="margin-right: 0.5em;" />
+<div align="center">
+  <div>
+    <img src="./resources/empathy_trans.png" alt="Empathy and Trans Rights" height="60" />
     <img src="./resources/gay-pride.gif" alt="Gay Pride Flag" height="60" />
   </div>
-  <p style="font-size: 1.25em; font-weight: bold; color: #333; margin-bottom: 0.5em;">Equality Matters</p>
-  <p style="font-size: 1em; color: #555; line-height: 1.6;">
+  <p><strong>Equality Matters</strong></p>
+  <p>
     I believe all people are equal, deserving of dignity, respect, and opportunity—regardless of race, gender, identity, or background.<br />
-    <strong style="color: #b4009e;">Trans rights are human rights</strong>, and inclusion isn’t optional.
+    <strong>Trans rights are human rights</strong>, and inclusion isn’t optional.
   </p>
 </div>
+
+<br>
 
 - <img src="./resources/pepefancy.jpg" width="20" />&nbsp;&nbsp;I work at <a href="https://slalom.com">Slalom</a>
 - <img src="./resources/writer.gif" width="20" />&nbsp;&nbsp;I like to write blog articles for fun at  <a href="https://www.codeandsorts.com">Code and Sorts</a>
