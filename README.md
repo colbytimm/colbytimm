@@ -2,8 +2,13 @@
   <img src="./resources/profile-banner.svg" alt="Header" width="100%" style="display: block;" />
 </a>
 <br/>
+<br/>
 <!-- https://readme-typing-svg.demolab.com/demo/?font=Atma&size=30&color=F73F9D&center=true&vCenter=true&width=480&lines=Curiously+crafting+code+and+systems;Tinkerer+and+maker;Championing+inclusion+through+every+step -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Atma&size=30&pause=1000&color=F73F9D&center=true&vCenter=true&width=480&lines=Curiously+crafting+code+and+systems;Tinkerer+and+maker;Championing+inclusion+through+every+step" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Atma&size=30&pause=1000&color=F73F9D&center=true&vCenter=true&width=480&lines=Curiously+crafting+code+and+systems;Tinkerer+and+maker;Championing+inclusion+through+every+step" alt="Typing SVG" />
+  </a>
+</div>
 <br/>
 <br/>
 
