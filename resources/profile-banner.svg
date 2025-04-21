@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="204.86818mm"
+   height="66.443741mm"
+   viewBox="0 0 204.86818 66.443741"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="colby-timm-gh-profile-banner.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.89887065"
+     inkscape:cx="381.58994"
+     inkscape:cy="347.10222"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="2560"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:clip-to-page="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.1209121,-56.515362)">
+    <rect
+       style="fill:#3b3b3b;fill-opacity:1;stroke:#5d5d5d;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;paint-order:normal"
+       id="rect1"
+       width="204.86818"
+       height="66.443741"
+       x="4.1209121"
+       y="56.515362"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-stretch:condensed;font-size:19.7556px;font-family:Kardust;-inkscape-font-specification:'Kardust Bold Italic Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:164.777;display:inline;fill:#dad9db;fill-opacity:1;stroke:#5d5d5d;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:normal"
+       x="75.353813"
+       y="70.349854"
+       id="text1"
+       transform="matrix(0.73888254,-0.19798298,0.19798298,0.73888254,-12.34146,49.440903)"><tspan
+         x="75.353813"
+         y="70.349854"
+         id="tspan10"><tspan
+           style="font-style:normal;font-weight:normal;font-stretch:normal;font-size:26.4386px;font-family:Maxlock;-inkscape-font-specification:Maxlock;fill:#9f4cf2"
+           id="tspan6">Colby Timm</tspan><tspan
+           style="font-style:normal;font-weight:normal;font-stretch:normal;font-family:Maxlock;-inkscape-font-specification:Maxlock"
+           id="tspan8">
+</tspan></tspan><tspan
+         x="75.353813"
+         y="97.725065"
+         id="tspan12"><tspan
+           style="font-style:normal;font-weight:normal;font-stretch:normal;font-size:11.5669px;font-family:Maxlock;-inkscape-font-specification:Maxlock"
+           id="tspan11">Software Engineer</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:20.2241px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#dad9db;fill-opacity:1;stroke:#5d5d5d;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:normal"
+       x="160.53398"
+       y="81.827263"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.2241px;font-family:'Madesta Brush';-inkscape-font-specification:'Madesta Brush';stroke-width:0"
+         x="160.53398"
+         y="81.827263">Welcome to</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.2241px;font-family:'Madesta Brush';-inkscape-font-specification:'Madesta Brush';stroke-width:0"
+         x="160.53398"
+         y="108.79915"
+         id="tspan4">my workshop!</tspan></text>
+  </g>
+</svg>
