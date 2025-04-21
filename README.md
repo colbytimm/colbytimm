@@ -39,7 +39,7 @@ public class ColbyTimm
 
 	public string Name { get; } = "Colby Timm";
 
-    public string[] Pronouns { get; } = { "they", "them" };
+	public string[] Pronouns { get; } = { "they", "them" };
 
 	public string Blog { get; } = "https://www.codeandsorts.com";
 
@@ -47,29 +47,29 @@ public class ColbyTimm
 
 	public string Employer { get; } = "Slalom";
 
-    public string Location { get; } = "Vancouver, Canada 🇨🇦";
+	public string Location { get; } = "Vancouver, Canada 🇨🇦";
 
-    public string[] Interests { get; } = {
-        "Cloud-native architecture",
-        "Open source",
-        "LLMs and prompt engineering",
-        "Inclusive tech",
-        "History & languages"
-    };
-    public string[] Roles { get; } = {
-        "Developer",
-        "Tinkerer",
-        "ERG Organizer",
-        "Facilitator",
-        "Cat lover 🐈"
-    };
+	public string[] Interests { get; } = {
+		"Cloud-native architecture",
+		"Open source",
+		"LLMs and prompt engineering",
+		"Inclusive tech",
+		"History & languages"
+	};
+	public string[] Roles { get; } = {
+		"Developer",
+		"Tinkerer",
+		"ERG Organizer",
+		"Facilitator",
+		"Cat lover 🐈"
+	};
 
-    public string Tagline => "Curiously exploring tech with empathy.";
+	public string Tagline => "Curiously exploring tech with empathy.";
 
-    public void SayHi()
-    {
-        Console.WriteLine("👋 Hi, I'm Colby! Let's build something awesome.");
-    }
+	public void SayHi()
+	{
+		Console.WriteLine("👋 Hi, I'm Colby! Let's build something awesome.");
+	}
 }
 ```
 
