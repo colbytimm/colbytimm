@@ -1,5 +1,5 @@
 <a href="https://codeandsorts.com/">
-  <img src="./resources/profile-banner.svg" alt="Header" width="100%" style="display: block;" />
+  <img src="./resources/profile-banner.png" alt="Header" width="100%" style="display: block;" />
 </a>
 <br/>
 <br/>
